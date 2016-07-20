@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e0c48-1bf8-4c5b-a226-120fbf0cfc33" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/sbt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/ek.wiki.iml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Applicative-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Applicative-Functor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Apply-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Apply-Functor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Functor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Kleisli-Arrow.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Kleisli-Arrow.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_01.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_02.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_02.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_03.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_03.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_04.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_04.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_05.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_05.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_06.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_06.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_07.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_07.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/method/ApproachToDesign.md" afterPath="$PROJECT_DIR$/ek.wiki/method/ApproachToDesign.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki" afterPath="$PROJECT_DIR$/ek.wiki" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.iml" afterPath="$PROJECT_DIR$/ek.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/Home.md" afterPath="$PROJECT_DIR$/ek.wiki/Home.md" />
     </list>
     <ignored path="ek.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/ek.wiki/Home.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="49" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,7 +43,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="221">
-                <caret line="13" column="24" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -272,7 +247,20 @@
       </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ek">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -628,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1469018354220</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reorganize wiki">
+      <created>1469020004396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1469020004396</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -650,7 +645,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.166348" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.166348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -685,7 +680,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;" />
+    <MESSAGE value="reorganize wiki" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganize wiki" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -741,7 +737,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="221">
-            <caret line="13" column="24" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -751,8 +747,8 @@
     <entry file="file://$PROJECT_DIR$/ek.wiki/Home.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="49" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
