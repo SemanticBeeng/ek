@@ -952,7 +952,7 @@
       <updated>1468961150980</updated>
       <workItem from="1468961155399" duration="803000" />
       <workItem from="1469014973122" duration="83000" />
-      <workItem from="1469015058722" duration="3453000" />
+      <workItem from="1469015058722" duration="4080000" />
     </task>
     <task id="LOCAL-00001" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;">
       <created>1468961296501</created>
@@ -1002,11 +1002,17 @@
       <option name="project" value="LOCAL" />
       <updated>1469021692917</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir&#10;do not really need 'root' but do need the fp and method folders.">
+      <created>1469021749518</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1469021749518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4339000" />
+    <option name="totallyTimeSpent" value="4966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="179" y="9" width="1439" height="887" extended-state="0" />
@@ -1049,7 +1055,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;" />
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir" />
-    <option name="LAST_COMMIT_MESSAGE" value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir" />
+    <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir&#10;do not really need 'root' but do need the fp and method folders." />
+    <option name="LAST_COMMIT_MESSAGE" value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir&#10;do not really need 'root' but do need the fp and method folders." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
