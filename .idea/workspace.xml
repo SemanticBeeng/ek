@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e0c48-1bf8-4c5b-a226-120fbf0cfc33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Applicative-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/Applicative-Functor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Apply-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/Apply-Functor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/Functor.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/fp/Kleisli-Arrow.md" afterPath="$PROJECT_DIR$/ek.wiki/Kleisli-Arrow.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_01.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_02.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_02.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_03.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_03.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_04.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_04.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_05.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_05.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_06.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_06.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/img/DDD_07.png" afterPath="$PROJECT_DIR$/ek.wiki/img/DDD_07.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/root/method/ApproachToDesign.md" afterPath="$PROJECT_DIR$/ek.wiki/method/ApproachToDesign.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/Applicative-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Applicative-Functor.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/Apply-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Apply-Functor.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Functor.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/Kleisli-Arrow.md" afterPath="$PROJECT_DIR$/ek.wiki/fp/Kleisli-Arrow.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/Home.md" afterPath="$PROJECT_DIR$/ek.wiki/Home.md" />
     </list>
     <ignored path="ek.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApproachToDesign.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ApproachToDesign.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ek.wiki/method/ApproachToDesign.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -71,8 +61,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Kleisli-Arrow.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ek.wiki/Kleisli-Arrow.md">
+      <file leaf-file-name="Kleisli-Arrow.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Kleisli-Arrow.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor vertical-scroll-proportion="0.14550643">
@@ -102,7 +92,7 @@
         </entry>
       </file>
       <file leaf-file-name="Functor.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ek.wiki/Functor.md">
+        <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Functor.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor vertical-scroll-proportion="0.19400856">
@@ -118,7 +108,7 @@
         </entry>
       </file>
       <file leaf-file-name="Apply-Functor.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ek.wiki/Apply-Functor.md">
+        <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Apply-Functor.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor vertical-scroll-proportion="0.2425107">
@@ -134,7 +124,7 @@
         </entry>
       </file>
       <file leaf-file-name="Applicative-Functor.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ek.wiki/Applicative-Functor.md">
+        <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Applicative-Functor.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor vertical-scroll-proportion="0.14550643">
@@ -165,6 +155,7 @@
         <option value="$PROJECT_DIR$/ek.wiki/root/fp/Apply-Functor.md" />
         <option value="$PROJECT_DIR$/ek.wiki/Home.md" />
         <option value="$PROJECT_DIR$/ek.wiki/root/method/ApproachToDesign.md" />
+        <option value="$PROJECT_DIR$/ek.wiki/fp/Applicative-Functor.md" />
       </list>
     </option>
   </component>
@@ -254,6 +245,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ek.wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ek" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ek.wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -283,6 +310,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ek.wiki/fp" />
       <recent name="$PROJECT_DIR$/ek.wiki" />
     </key>
   </component>
@@ -927,7 +955,7 @@
       <updated>1468961150980</updated>
       <workItem from="1468961155399" duration="803000" />
       <workItem from="1469014973122" duration="83000" />
-      <workItem from="1469015058722" duration="2952000" />
+      <workItem from="1469015058722" duration="3049000" />
     </task>
     <task id="LOCAL-00001" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;">
       <created>1468961296501</created>
@@ -953,11 +981,17 @@
       <option name="project" value="LOCAL" />
       <updated>1469018472132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir">
+      <created>1469021232912</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1469021232912</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3838000" />
+    <option name="totallyTimeSpent" value="3935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="179" y="9" width="1439" height="887" extended-state="0" />
@@ -999,7 +1033,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;" />
+    <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir" />
+    <option name="LAST_COMMIT_MESSAGE" value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1020,35 +1055,17 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/Applicative-Functor.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.14550643">
-            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/img/DDD_01.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/Apply-Functor.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.2425107">
-            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/img/DDD_02.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/Functor.md">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Functor.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.19400856">
@@ -1062,7 +1079,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/Kleisli-Arrow.md">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Apply-Functor.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.2425107">
+            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Applicative-Functor.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.14550643">
@@ -1073,16 +1104,6 @@
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/img/DDD_01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/img/DDD_02.png">
-      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
@@ -1105,6 +1126,20 @@
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.36376604">
             <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ek.wiki/fp/Kleisli-Arrow.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.14550643">
+            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
