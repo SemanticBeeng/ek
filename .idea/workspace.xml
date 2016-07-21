@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e0c48-1bf8-4c5b-a226-120fbf0cfc33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/ApproachToSolutionAndArchitecture.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/ubiquitous-language.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki" afterPath="$PROJECT_DIR$/ek.wiki" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/domain/fp/Applicative-Functor.md" afterPath="$PROJECT_DIR$/ek.wiki/domain/fp/Applicative-Functor.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md" afterPath="$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md" afterPath="$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md" />
     </list>
     <ignored path="ek.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,12 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApproachToDesign.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md">
+      <file leaf-file-name="ApproachToSolutionAndArchitecture.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/ApproachToSolutionAndArchitecture.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.04850214">
-                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.09700428">
+                <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,12 +62,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DomainDrivenDesign.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DomainDrivenDesign.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.12125535">
-                <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.14550643">
+                <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -173,8 +174,9 @@
         <option value="$PROJECT_DIR$/ek.wiki/root/method/ApproachToDesign.md" />
         <option value="$PROJECT_DIR$/ek.wiki/fp/Applicative-Functor.md" />
         <option value="$PROJECT_DIR$/ek.wiki/domain/fp/Applicative-Functor.md" />
-        <option value="$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md" />
+        <option value="$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md" />
+        <option value="$PROJECT_DIR$/ek.wiki/marketing/ApproachToSolutionAndArchitecture.md" />
       </list>
     </option>
   </component>
@@ -186,7 +188,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="179" />
     <option name="y" value="9" />
-    <option name="width" value="1439" />
+    <option name="width" value="1671" />
     <option name="height" value="887" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -981,7 +983,7 @@
       <workItem from="1468961155399" duration="803000" />
       <workItem from="1469014973122" duration="83000" />
       <workItem from="1469015058722" duration="4888000" />
-      <workItem from="1469107169858" duration="963000" />
+      <workItem from="1469107169858" duration="2438000" />
     </task>
     <task id="LOCAL-00001" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;">
       <created>1468961296501</created>
@@ -1049,14 +1051,26 @@
       <option name="project" value="LOCAL" />
       <updated>1469107363033</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;experimenting (again) with nested folders">
+      <created>1469108723094</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1469108723094</updated>
+    </task>
+    <task id="LOCAL-00013" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;experimenting (again) with nested folders">
+      <created>1469108765544</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1469108765544</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6737000" />
+    <option name="totallyTimeSpent" value="8212000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="179" y="9" width="1439" height="887" extended-state="0" />
+    <frame x="179" y="9" width="1671" height="887" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1071,7 +1085,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24982603" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21509886" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1119,7 +1133,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/ApproachToSolutionAndArchitecture.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor vertical-scroll-proportion="0.0">
@@ -1293,11 +1307,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/ApproachToDesign.md">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.04850214">
-            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.14550643">
+            <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1307,11 +1321,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/DomainDrivenDesign.md">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/ApproachToSolutionAndArchitecture.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.12125535">
-            <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.09700428">
+            <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />
