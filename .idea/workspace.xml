@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e0c48-1bf8-4c5b-a226-120fbf0cfc33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-building-and-execution.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-management-consulting.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-software-development-lifecycle.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/marketing/Approach-to-solution-architecture.md" afterPath="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-solution-architecture.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ek.wiki/marketing/latent-variable.md" afterPath="$PROJECT_DIR$/ek.wiki/domain/ds/latent-variable.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki" afterPath="$PROJECT_DIR$/ek.wiki" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/Home.md" afterPath="$PROJECT_DIR$/ek.wiki/Home.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md" afterPath="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md" />
     </list>
     <ignored path="ek.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,15 +27,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Domain-Driven-Design-How-To.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Domain-Driven-Design-How-To.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.78174037">
-                <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+              <first_editor vertical-scroll-proportion="0.8059914">
+                <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,15 +43,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Home.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ek.wiki/Home.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.29101285">
-                <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <first_editor vertical-scroll-proportion="0.0">
+                <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +66,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.04850214">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
                 <folding />
               </first_editor>
@@ -87,7 +82,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.04850214">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
                 <folding />
               </first_editor>
@@ -103,7 +98,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.04850214">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
                 <folding />
               </first_editor>
@@ -119,7 +114,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.43651927">
+              <first_editor vertical-scroll-proportion="0.0">
                 <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
                 <folding />
               </first_editor>
@@ -168,11 +163,11 @@
         <option value="$PROJECT_DIR$/ek.wiki/marketing/common/TheProfessionalDataScienceManifesto.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-:-Why-and-How.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/Approach-to-solution-architecture.md" />
-        <option value="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md" />
         <option value="$PROJECT_DIR$/ek.wiki/Home.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-building-and-execution.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-management-consulting.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-software-development-lifecycle.md" />
+        <option value="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md" />
       </list>
     </option>
   </component>
@@ -212,6 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -418,9 +415,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1097,7 +1092,8 @@
       <workItem from="1469107169858" duration="6302000" />
       <workItem from="1469114477820" duration="763000" />
       <workItem from="1469116184286" duration="4252000" />
-      <workItem from="1469163451993" duration="567000" />
+      <workItem from="1469163451993" duration="1171000" />
+      <workItem from="1469165508288" duration="576000" />
     </task>
     <task id="LOCAL-00001" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;">
       <created>1468961296501</created>
@@ -1225,11 +1221,17 @@
       <option name="project" value="LOCAL" />
       <updated>1469133618707</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="(wip) evolving content">
+      <created>1469164046437</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1469164046437</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17658000" />
+    <option name="totallyTimeSpent" value="18838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="179" y="9" width="1671" height="887" extended-state="0" />
@@ -1246,7 +1248,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21509886" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21509886" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1274,13 +1276,56 @@
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir" />
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;refactored accooring to Vladimir&#10;do not really need 'root' but do need the fp and method folders." />
     <MESSAGE value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;experimenting (again) with nested folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;&#10;experimenting (again) with nested folders" />
+    <MESSAGE value="(wip) evolving content" />
+    <option name="LAST_COMMIT_MESSAGE" value="(wip) evolving content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-software-development-lifecycle.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-solution-architecture.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ek.wiki/domain/ds/latent-variable.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1791,20 +1836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.78174037">
-            <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ek.wiki/domain/ds/latent-variable.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1825,7 +1856,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.04850214">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             <folding />
           </first_editor>
@@ -1839,7 +1870,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.04850214">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             <folding />
           </first_editor>
@@ -1853,7 +1884,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.43651927">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
             <folding />
           </first_editor>
@@ -1867,7 +1898,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.04850214">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             <folding />
           </first_editor>
@@ -1881,8 +1912,22 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.29101285">
-            <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.8059914">
+            <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
