@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2e0c48-1bf8-4c5b-a226-120fbf0cfc33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/domain/architecture/big-data-processing-engine-technologies.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/offerings/application-development.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ek.wiki/marketing/offerings/large-scale-analytics-development.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md" afterPath="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-How-To.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/Home.md" afterPath="$PROJECT_DIR$/ek.wiki/Home.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ek.wiki/marketing/offerings/large-scale-analytics-development.md" afterPath="$PROJECT_DIR$/ek.wiki/marketing/offerings/large-scale-analytics-development.md" />
     </list>
     <ignored path="ek.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,12 +75,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="large-scale-analytics-development.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="large-scale-analytics-development.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/offerings/large-scale-analytics-development.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.26676178">
-                <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <first_editor vertical-scroll-proportion="0.46077034">
+                <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -93,12 +91,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Home.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ek.wiki/Home.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <first_editor vertical-scroll-proportion="0.02425107">
+                <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -197,7 +195,6 @@
         <option value="$PROJECT_DIR$/ek.wiki/marketing/common/TheProfessionalDataScienceManifesto.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/blogs/Domain-Driven-Design-:-Why-and-How.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/Approach-to-solution-architecture.md" />
-        <option value="$PROJECT_DIR$/ek.wiki/Home.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-building-and-execution.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-management-consulting.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/pages/Approach-to-software-development-lifecycle.md" />
@@ -206,6 +203,7 @@
         <option value="$PROJECT_DIR$/ek.wiki/marketing/offerings/new-application-development.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/offerings/application-development.md" />
         <option value="$PROJECT_DIR$/ek.wiki/marketing/offerings/large-scale-analytics-development.md" />
+        <option value="$PROJECT_DIR$/ek.wiki/Home.md" />
       </list>
     </option>
   </component>
@@ -1157,7 +1155,7 @@
       <workItem from="1469116184286" duration="4252000" />
       <workItem from="1469163451993" duration="1171000" />
       <workItem from="1469165508288" duration="1704000" />
-      <workItem from="1469167578335" duration="1160000" />
+      <workItem from="1469167578335" duration="3101000" />
     </task>
     <task id="LOCAL-00001" summary="POC for this way of organizing knowledge in a wiki as a Git sub-module&#10; https://hyp.is/H6bQZk3NEeaJ-V8TvE7AHA/archive.is/KQZoE&#10;">
       <created>1468961296501</created>
@@ -1309,11 +1307,17 @@
       <option name="project" value="LOCAL" />
       <updated>1469167624862</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="(wip) evolving content">
+      <created>1469168749472</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1469168749472</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21126000" />
+    <option name="totallyTimeSpent" value="23067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="179" y="9" width="1671" height="887" extended-state="0" />
@@ -1950,20 +1954,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ek.wiki/Home.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/tags/service-offering.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -2036,8 +2026,22 @@
     <entry file="file://$PROJECT_DIR$/ek.wiki/marketing/offerings/large-scale-analytics-development.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.26676178">
-            <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <first_editor vertical-scroll-proportion="0.46077034">
+            <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ek.wiki/Home.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.02425107">
+            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
